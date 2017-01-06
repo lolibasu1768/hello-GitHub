@@ -1,1 +1,2 @@
 This term is to help for using the GitHub from the scratch, as simple as possible.
+问题1. 如果主分支上有改动，那么其他子分支该如何获取这一变动呢？ 比如说本例。
